@@ -29,5 +29,5 @@
 
 ###
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoreimche&layout=compact&theme=dracula)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoreimche&layout=compact&theme=dracula" />
 </div>
