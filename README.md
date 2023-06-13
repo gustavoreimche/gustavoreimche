@@ -28,5 +28,6 @@
 </div>
 
 ###
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoreimche&hide_progress=true)
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoreimche&layout=compact&hide_progress=true)
+</div>
