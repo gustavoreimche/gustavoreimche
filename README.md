@@ -29,4 +29,4 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gustavoreimche=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoreimche&hide_progress=true)
